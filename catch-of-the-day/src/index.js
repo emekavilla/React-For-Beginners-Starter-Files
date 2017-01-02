@@ -5,7 +5,7 @@ import { BrowserRouter, Match, Miss } from 'react-router';
 import './css/style.css';
 import App from './components/App';
 import Storepicker from './components/Storepicker';
-import NotFound from '.components/NotFound';
+import NotFound from './components/NotFound';
 
 const Root = () => {
   return (
